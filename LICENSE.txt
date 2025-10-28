@@ -1,4 +1,7 @@
-MIT License
+
+
+
+MIT License (PARTZKOH)
 
 Copyright (c) 2015 - present Microsoft Corporation
 
